@@ -20,7 +20,7 @@ app.secret_key = 'bc730ade0c837ba6c39e' # Random secret key
 
 # DB STUFF
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://bptlvaszpnblcm:ydsyOae0cNzbQsH_cnc2Hz4wwF@ec2-54-243-202-174.compute-1.amazonaws.com:5432/d6ucddsvp9ne1a'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://edmeeidsoanzkg:8oijr_O8B8_RjIk-fg46lEcBuu@ec2-23-21-55-25.compute-1.amazonaws.com:5432/d2h70ose55s4h0'
 
 
 db = SQLAlchemy(app)
